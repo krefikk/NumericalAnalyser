@@ -15,13 +15,13 @@ A software that allows you to experiment with 10 numerical methods on functions 
 
 # Screenshots
 **Bisection**<br>
-![Bisection](https://i.hizliresim.com/j3nz8w2.PNG)
+[Bisection](https://i.hizliresim.com/j3nz8w2.PNG)
 
 **Differentiation**<br>
-![Differentiation](https://i.hizliresim.com/4v07fbj.PNG)
+[Differentiation](https://i.hizliresim.com/4v07fbj.PNG)
 
 **Inverse Matrix**<br>
-![Inverse Matrix](https://i.hizliresim.com/1u14v66.PNG)
+[Inverse Matrix](https://i.hizliresim.com/1u14v66.PNG)
 
 # Dependencies
 Only C. No external library was used.
